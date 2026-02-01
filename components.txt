@@ -1,0 +1,6 @@
+Components Used:
+- Arduino UNO
+- PIR Motion Sensor
+- Buzzer
+- Jumper Wires
+- Mobile App (concept)
